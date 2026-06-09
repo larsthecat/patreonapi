@@ -9,19 +9,8 @@ This repository includes a fully built, interactive **Vanilla Client PRO+ Dashbo
 * **OAuth2 Flow:** Secure, direct integration with Patreon's authentication servers.
 * **Tier Verification:** Dynamic validation of a user's `currently_entitled_tiers` to gate content.
 * **Session Management:** Secure cookie handling to keep verified users logged in.
-* **PRO+ Web Dashboard:** A responsive, dark-mode single-page application containing 11 client-side tools:
-    * Command Version Converter (Legacy <-> Modern)
-    * Nether Portal Alignment Linker
-    * Color MOTD Parser
-    * Enchantment Give Engine
-    * Stack/Shulker Calculator
-    * Lore Name Generator
-    * Circle Blueprint Builder
-    * Fill Block Volume Counter
-    * Attribute Modifiers Assembler
-    * XP Level Calculator
-    * Live Text Colorizer
-
+* **Fast and Reliable** A quick way to access patreon!
+  
 ## 🛠️ Tech Stack
 
 * **Backend:** Node.js, Express.js
